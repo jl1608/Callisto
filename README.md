@@ -1,10 +1,12 @@
 # Callisto
 
+A Python toolsuite library written to make the data science process easier when building pipeline systems
+
 <div style="align: center;">
     <img src="./assets/callisto.png" style="width: 200px; height: 200px;"/>
 </div>
 
-## Jupyter Notebook Utiltiy and Conversion Toolsuite
+## Jupyter Notebook Utility and Conversion Toolsuite
 
 ### Convert toolsuite
 
